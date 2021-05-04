@@ -2,4 +2,5 @@
     <string name="app_name">Duas Activities</string>
     <string name="button_main">Enviar</string>
     <string name="text_header">Mensagem Recebida</string>
+    <string name="editText_main_hint">Digite sua mensagem aqui</string>
 </resources>
